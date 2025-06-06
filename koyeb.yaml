@@ -1,6 +1,6 @@
-name: INCONNU-XD
+name: JOQUER-GA
 services:
-  - name: INCONNU-XD
+  - name: JOQUER-GA
     type: web
     ports:
       - 5000
