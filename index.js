@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("INCONNU~XD~")[1];
+    const sessdata = config.SESSION_ID.split("JOQUER~GA~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -89,13 +89,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 INCONNU-XD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 JOQUER-GA using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["INCONNU-XD", "safari", "3.3"],
+            browser: ["JOQUER-GA", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -117,23 +117,23 @@ async function start() {
                     console.log(chalk.green("Connected Successfully INCONNU XD 🤍"));
 Matrix.newsletterFollow("120363397722863547@newsletter");                    
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/230q0c.jpg" }, 
+                        image: { url: "https://files.catbox.moe/69n5qi.jpg" }, 
                         caption: `╓─────────────────╖
-│WELCOME TO INCONNU-XD
+│WELCOME TO JOQUER-GA
 ╙─────────────────╜
 *⚡ Hello there User! 👋🏻*
 
 ════════════════════
-⚡ CHANNEL : https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R
+⚡ You are now a user of Joquer-Ga
 
 ═══════════════════
 *⚡ Your Prefix:* = *${prefix}*
 ═══════════════════
 
-⌛ REPO : https://github.com/INCONNU-BOY/INCONNU-XD-V1
+⌛ REPO : https://github.com/joq622/JOQUER-.git
 
 ╚══════════════════╝
-       ©️INCONNU BOY TECH`
+       ©️JOQUERHCET`
                     });
                     initialConnection = false;
                 } else {
