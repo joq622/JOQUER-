@@ -50,7 +50,7 @@ export const handleAntilink = async (m, sock, logger, isBotAdmins, isAdmins, isC
     if (antilinkSettings[m.from]) {
         if (m.body.match(/(chat.whatsapp.com\/)/gi)) {
             if (!isBotAdmins) {
-                await sock.sendMessage(m.from, { text: `The bot needs to be an admin to remove links.` });
+                await sock.sendMessage(m.from, { text: `The bot needs to be an admin to delete links.` });
                 return;
             }
             let gclink = `https://chat.whatsapp.com/${await sock.groupInviteCode(m.from)}`;
