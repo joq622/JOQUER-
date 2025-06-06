@@ -1,16 +1,16 @@
 {
-  "name": "INCONNU-XD",
+  "name": "JOQUER-GA",
   "version": "10.8.1",
-  "description": "INCONNU BOY TECH",
+  "description": "No one like me",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name INCONNU-XD",
-    "stop": "pm2 stop INCONNU-XD",
-    "restart": "pm2 restart INCONNU-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name JOQUER-GA",
+    "stop": "pm2 stop JOQUER-GA",
+    "restart": "pm2 restart JOQUER-GA"
   },
-  "keywords": ["INCONNU-BOY", "whatsapp-bot", "whatsapp md bot"],
-  "author": "INCONNU BOY",
+  "keywords": ["JOQUER-GA", "whatsapp-bot", "whatsapp md bot"],
+  "author": "JOQUER-GA",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
