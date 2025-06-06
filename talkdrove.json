@@ -1,15 +1,15 @@
 
 {
-    "bot-name": "INCONNU-XD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot BY INCONNU BOY TECH",
-    "logo": "https://files.catbox.moe/230q0c.jpg",
+    "bot-name": "JOQUER-GA",
+    "description": "Whiskey Sockets Baileys Whatsapp bot BY JOQUERHCET",
+    "logo": "https://files.catbox.moe/69n5qi.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://inconnu-xd-session-by-inconnu-boy.onrender.com",
-    "owner-verification": "xinconnuboydawens@gmail.com",
+    "documentation-link": "https://queen-aisha.onrender.com",
+    "owner-verification": "mserekalegoodlucky@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with inconnu~  or get session id from here,  https://pairs-rzev.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts  or get session id from here, https://queen-aisha.onrender.com",
         "value":"",
         "required": true
         
@@ -25,14 +25,14 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "INCONNU BOY"
+      "value": "JOQUERHCET"
   
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "Private"
       
     },
     
@@ -70,34 +70,34 @@
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*INCONNU-XD BOT VIEWED YOUR STATUS *"
+      "value": "*JOQUERHCET *"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "INCONNU BOY"
+      "value": "JOQUER"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "255767191393"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "INCONNU-XD"
+      "value": "JOQUER-GA"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY INCONNU BOY*"
+      "value": "*© POWERED BY JOQUERHCET*"
     },
 
       "DELETE_LINKS": {
