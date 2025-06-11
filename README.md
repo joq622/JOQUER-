@@ -1,168 +1,130 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=INCONNU-XD;VERSION+2025;BY+INCONNU+BOY" alt="Typing SVG" />
-  </a>
-</p>
-
-<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY INCONNU BOY</h1>
-
----
-
-<p align="center">
-  <img src="https://files.catbox.moe/230q0c.jpg" width="700"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/INCONNU-BOY">
-    <img title="Author" src="https://img.shields.io/badge/Author-INCONNU%20BOY-ff004d?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
-    <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/INCONNU-XD/count.svg" alt="Visitor Count" />
-</p>
-
----
-
-## ✨ Features
-
-- ✅ QR Code Generator for WhatsApp Pairing  
-- ✅ Session Sharing System  
-- ✅ Fully Open Source  
-- ✅ Auto QR to DM  
-- ✅ Session ID Generator (`INCONNU-SESSION-ID`)  
-- ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
-
----
-
-## ⚙️ Deploy Easily
-
-### 🔑 Get Your Session ID
-[![NCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=JOQUER-ISHLY)](https://git.io/typing-svg) 
+  
 
 
-### 🔑 Get PAIR CODE
-[![INCONNU XD PAIR](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
 
 
----
 
-### 🚀 Fork This Repo
 
-<p align="center">
-  <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1/fork">
-    <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=CREATOR-GOODLUCKY)](https://git.io/typing-svg) 
+
+
+
+  
+
+<p align="centre"><img src="https://files.catbox.moe/lhmc6j.jpg" width="480" heigh="640"
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=00FF00&lines=true&vCenter=true&width=1000&height=100&lines=JOQUERHCET)](https://git.io/typing-svg) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4000&color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=FOUNDER-JOQUER+GEW)](https://git.io/typing-svg) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## PERFORM THE FOLLOWING PROCEDURES TO BE CONNECTED WITH QUEEN AISHA
+
+
+
+### Fork This Repository
+
+Start by forking this repository to your own GitHub account. Click the button below to create a fork:
+
+  
+<a href="https://github.com/joq622/joq622.git/fork"><img title="QUEEN AISHA" src="https://img.shields.io/badge/FORK-JOQUERHCET-BOTh?color=blue&style=for-the-badge&logo=github"></a>
+
+  ### Deploying on Panel  
+1. Go to [Bot Hosting Panel](https://bot-hosting.net/?aff=1274828280750407803) and sign up.
+2. Sign up for a new account or log in to your existing account.
+3. Create a new **Web Service**.
+4. In the **Service Settings**, connect your GitHub repository where Queen Aisha is stored.
+6. Deploy the service, and it will automatically start running.
+
+
+
+<h2 align="center">Other Deployment Options</h2>
 
 ---
 
-### ☁️ Deploy To Platforms
+<h4 align="center">1.HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
 
 <p align="center">
-  <a href="https://replit.com/github/INCONNU-BOY/INCONNU-XD-V1">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
-  </a>
-  <a href="https://railway.app/new/template?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
-  </a>
-  <a href="https://render.com/">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Render-06B6D4?style=for-the-badge&logo=render&logoColor=white" />
-  </a>
-</p>
+<a href='https://stainy-tech.vercel.app/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-800080?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=38/p></a>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=1000&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+<h4 align="center">2.RENDER</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=38/p></a>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=0000FF&center=true&vCenter=true&width=1000&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+  <h4 align="center">3.REPLIT</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1/tree/main">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-  <a href="https://host.talkdrove.com/share-bot/82">
-    <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=INCONNU-BOY/INCONNU-XD-V1&ports=3000">
-    <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
-  </a>
-</p>
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=38/p></a> </a>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=48FF68&center=true&vCenter=true&width=1000&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+  <h4 align="center">4.TALK.DROVE</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://talkdrove.com/share-bot/66' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=38/p></a>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+
+  <h4 align="center">5.DIGITAL OCEAN</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://www.digitalocean.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Digital Ocean-black?style=for-the-badge&logo=digital&logoColot=white'/< width=150 height=38/p></a>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+<h4 align="center">6.CLOUD GOOGLE</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://cloud.google.com/' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Google cloud Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=38/p></a> </a>
+
+
+𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗘 𝗪𝗜𝗧𝗛 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
+
+<h4 align="center">DEVELOPER</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://wa.link/pn8y0n' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-DEVELOPER-6CFF3F?style=for-the-badge&logo=WhatsApp&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></
+
+𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗖𝗔𝗧𝗘 𝗪𝗜𝗧𝗛 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (JOQUER)
+  
+  
+<a href="https://wa.me/255767191393"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="33%"> <a href="https://chat.whatsapp.com/FDPHwoJOH56BuNF5pWKXWo"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="23%">  <a href="https://www.facebook.com/share/1AYCAesbtw/"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="18%"> 
+
+
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
+- Misusing the bot may result in to your `WhatsApp` account being banned. Note that you can only unban your account once.
+- I am not responsible for any bans due to the misuse of the bot. Please keep this warning in mind before proceeding.
 
 ---
 
-### 📦 Download the Bot File
 
-<p align="center">
-  <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
-  </a>
-</p>
+<h2 align="center">ℹ️ Notice</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
 
----
-
-### ⚙️ Configuration `.env` File
-
-```env
-SESSION_ID="INCONNU~XD~"
-AUTO_READ_STATUS=true
-STATUS_READ_MSG="*Status Seen By INCONNU-XD ⚡*"
-AUTO_STATUS_REPLY=false
-AUTO_REJECT_CALLS=false
-MODE="public"
-WELCOME=false
-AUTO_READ_MESSAGES=false
-AUTO_TYPING=false
-OWNER_NAME="INCONNU BOY"
-OWNER_NUMBER="554488138425"
-AUTO_RECORDING=false
-ALWAYS_ONLINE=false
-AUTO_BLOCK=true
-AUTO_REACT=false
-PREFIX="."
-```
-
-``` DEPLOY ON WORKFLOW ⚡
-
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-  schedule:
-    - cron: '0 */6 * * *'  
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Install FFmpeg
-      run: sudo apt-get install -y ffmpeg
-
-    - name: Start application with timeout
-      run: |
-        timeout 21590s npm start  # Limite l'exécution à 5h 59m 50s
-
-    - name: Save state (Optional)
-      run: |
-        ./save_state.sh
+©JOQUERHCET 
